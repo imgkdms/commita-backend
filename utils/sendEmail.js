@@ -1,1 +1,0 @@
-// Nodemailer setup for password reset email
